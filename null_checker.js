@@ -1,6 +1,6 @@
 
 
-for (count=1;count<11;count++)
+for (x=1;x<11;x++)
 
 {
 	let num =prompt ("Input a number");
