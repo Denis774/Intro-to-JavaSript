@@ -3,7 +3,8 @@
 for (x=1;x<11;x++)
 
 {
-	let num =prompt ("Input a number");
+	Prompt ("Input a number");
+	
 /*if the number is less than zero*/	
 		if (num<0)
 			console.log(-1);
